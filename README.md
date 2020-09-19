@@ -1,14 +1,14 @@
 ### HELLO,
 
-MY NAME IS ALINA ILINA. I'M A WEB DEVELOPER & UI IMAGINEER. I MAKE CLEAN, PREDICTABLE AND SIMPLY AWESOME USER INTERFACES FOR WEB AND MOBILE APPS THAT MEET HIGH STANDARDS FOR USABILITY, AND SCALE.
+My name is Alina Ilina. I'm a Web Developer & UI Imagineer. I make clean, predictable and simply awesome user interfaces for web and mobile apps that meet high standards for usability, and scale.
 
-[READ FULL STORY] (https://alinailina.info/about)
+[Read full story][https://alinailina.info/about]
 
 ## WORK WITH ME
 
-Portfolio [website]
-Linkedin [linkedin]
-Twitter [twitter]
+[Portfolio][website]
+[Linkedin][linkedin]
+[Twitter][twitter]
 
 ## Technologies and tools
 
