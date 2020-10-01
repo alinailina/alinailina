@@ -1,16 +1,12 @@
-## Hello,
+## Alina Ilina
 
-My name is Alina Ilina.
+<a href="https://www.linkedin.com/in/alinailina/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
 
-I'm a Web Developer & UI Imagineer. I make clean, predictable and simply awesome user interfaces for web and mobile apps that meet high standards for usability, and scale.
+<a href="https://twitter.com/alinaimagineer" target="_blank"><img src="https://img.shields.io/badge/Twitter-%23E4405F.svg?&style=flat-square&logo=instagram&logoColor=white" alt="Twitter"></a>
 
-[Read full story][about]
-
-## Work with me
+<br><br>
 
 [Portfolio][website] <br/>
-[Linkedin][linkedin] <br/>
-[Twitter][twitter] <br/>
 
 [![](https://github-readme-stats.vercel.app/api?username=alinailina&hide_title=true&hide_border=true&show_icons&icon_color=A63446)](https://github.com/anuraghazra/github-readme-stats)
 
