@@ -19,6 +19,6 @@ I'm a Web Developer & UI Imagineer. I make clean, predictable and simply awesome
 [linkedin]: https://www.linkedin.com/in/alinailina/
 [twitter]: https://twitter.com/alinaimagineer
 
-## Img test
+## Stats
 
-![alt text](https://github.com/alinailina/alinailina/blob/master/avatar.png?raw=true)
+[![Alina's github stats](https://github-readme-stats.vercel.app/api?username=alinailina)](https://github.com/anuraghazra/github-readme-stats)
