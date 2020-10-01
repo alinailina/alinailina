@@ -19,7 +19,7 @@ I'm a Web Developer & UI Imagineer. I make clean, predictable and simply awesome
 [linkedin]: https://www.linkedin.com/in/alinailina/
 [twitter]: https://twitter.com/alinaimagineer
 
-[![](https://github-readme-stats.vercel.app/api?username=alinailina&hide_title=true&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
+[![](https://github-readme-stats.vercel.app/api?username=alinailina&hide_title=true&hide_border=true&icon_color=A63446)](https://github.com/anuraghazra/github-readme-stats)
 
 [![](https://github-readme-stats.vercel.app/api/top-langs/?username=alinailina)](https://github.com/anuraghazra/github-readme-stats)
 
