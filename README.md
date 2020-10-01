@@ -23,4 +23,4 @@ I'm a Web Developer & UI Imagineer. I make clean, predictable and simply awesome
 
 [![Alina's github stats](https://github-readme-stats.vercel.app/api?username=alinailina)](https://github.com/anuraghazra/github-readme-stats)
 
-<img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/javascript.js" />
+<img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/javascript.svg" />
