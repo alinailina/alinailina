@@ -21,4 +21,4 @@ I'm a Web Developer & UI Imagineer. I make clean, predictable and simply awesome
 
 ## Img test
 
-![alt text](https://github.com/alinailina/alinailina/avatar.png)
+![alt text](https://github.com/alinailina/alinailina/blob/master/avatar.png?raw=true)
