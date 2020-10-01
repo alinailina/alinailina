@@ -18,3 +18,7 @@ I'm a Web Developer & UI Imagineer. I make clean, predictable and simply awesome
 [website]: https://alinailina.info
 [linkedin]: https://www.linkedin.com/in/alinailina/
 [twitter]: https://twitter.com/alinaimagineer
+
+## Img test
+
+![alt text](https://github.com/alinailina/alinailina/avatar.png)
