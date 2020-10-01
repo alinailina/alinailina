@@ -2,7 +2,7 @@
 
 <a href="https://www.linkedin.com/in/alinailina/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
 
-<a href="https://twitter.com/alinaimagineer" target="_blank"><img src="https://img.shields.io/badge/Twitter-%23E4405F.svg?&style=flat-square&logo=instagram&logoColor=white" alt="Twitter"></a>
+<a href="https://twitter.com/alinaimagineer" target="_blank"><img src="https://img.shields.io/badge/Twitter-%23E4405F.svg?&style=flat-square&logo=twitter&logoColor=white" alt="Twitter"></a>
 
 <br><br>
 
