@@ -1,6 +1,6 @@
 # Clean code, fluff-free interfaces
 
-**Hi, there! 👋**
+### Hi, there! 👋
 
 I am Alina, a front-end developer and UI designer, who strikes a balance between [<span style="color:#007aff">simple and considered</span>][website] outcomes.
 
@@ -11,7 +11,7 @@ I am Alina, a front-end developer and UI designer, who strikes a balance between
 
 <br/>
 
-**⚡ I code**
+### ⚡ I code
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
 
@@ -23,7 +23,7 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 
 <br/>
 
-**✨ I design**
+### ✨ I design
 
 No need to reinvent the UI wheel - I look at what others are doing right, and combine those proven design patterns with 20% of my unique spin 💅
 
@@ -32,19 +32,19 @@ No need to reinvent the UI wheel - I look at what others are doing right, and co
 
 <br/>
 
-- 👩‍💻 Currently learning full-stack development at [<span style="color:#007aff">Integrify</span>][integrify] and [<span style="color:#007aff">Helsinki University</span>][fullstackopencourse]
+👩‍💻 Currently learning full-stack development at [<span style="color:#007aff">Integrify</span>][integrify] and [<span style="color:#007aff">Helsinki University</span>][fullstackopencourse]
 
-- 🌱 2021 goal: contribute to an open source project
+🌱 2021 goal: contribute to an open source project
 
-- 🤝 Always looking to expand my professional network and make new friends
+🤝 Always looking to expand my professional network and make new friends
 
-- 🧘‍♀️ When I'm not coding, I like to look at talented design work, listen to podcasts and 🏃‍♀️🤸‍♀️ 🏋️‍♀️
+🧘‍♀️ When I'm not coding, I like to look at talented design work, listen to podcasts and 🏃‍♀️🤸‍♀️ 🏋️‍♀️
 
-- 👀 Read more [<span style="color:#007aff">here</span>][website]
+👀 Read more [<span style="color:#007aff">here</span>][website]
 
 <br/>
 
-**But enough about me, let's talk about you...**
+### But enough about me, let's talk about you...
 
 I'm happy to meet over a (virtual, I guess 🤦‍♀️) coffee ☕ and pick your brain. Just ping me at <a style="color:#007aff" href="mailto:niftysyntax@gmail.com">niftysyntax@gmail.com</a> or <a style="color:#007aff" href="https://api.whatsapp.com/send?phone=358465935910">WhatsApp</a>
 
@@ -54,9 +54,3 @@ I'm happy to meet over a (virtual, I guess 🤦‍♀️) coffee ☕ and pick yo
 [linkedin]: https://www.linkedin.com/in/alinailina/
 [instagram]: https://instagram.com/niftysyntax
 [twitter]: https://twitter.com/niftysyntax
-
-## text
-
-### text
-
-#### text
