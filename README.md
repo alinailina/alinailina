@@ -1,6 +1,6 @@
 # Clean code, fluff-free interfaces
 
-## Hi, there! 👋
+**Hi, there! 👋**
 
 I am Alina, a front-end developer and UI designer, who strikes a balance between [<span style="color:#007aff">simple and considered</span>][website] outcomes.
 
@@ -8,7 +8,7 @@ I am Alina, a front-end developer and UI designer, who strikes a balance between
 
 <br/>
 
-## ⚡ I code
+**⚡ I code**
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
 
@@ -20,7 +20,7 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 
 <br/>
 
-## ✨ I design
+**✨ I design**
 
 No need to reinvent the UI wheel - I look at what others are doing right, and combine those proven design patterns with 20% of my unique spin 💅
 
@@ -41,7 +41,7 @@ No need to reinvent the UI wheel - I look at what others are doing right, and co
 
 <br/>
 
-## But enough about me, let's talk about you
+**But enough about me, let's talk about you...**
 
 I'm happy to meet over a (virtual, I guess 🤦‍♀️) coffee ☕ and pick your brain. Just ping me at <a style="color:#007aff" href="mailto:niftysyntax@gmail.com">niftysyntax@gmail.com</a> or <a style="color:#007aff" href="https://api.whatsapp.com/send?phone=358465935910">WhatsApp</a>
 
