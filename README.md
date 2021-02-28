@@ -46,7 +46,7 @@ No need to reinvent the UI wheel - I look at what others are doing right, and co
 
 ### But enough about me, let's talk about you...
 
-I'm happy to meet over a (virtual, I guess 🤦‍♀️) coffee ☕ and pick your brain. Just ping me at <a style="color:#007aff" href="mailto:niftysyntax@gmail.com">niftysyntax@gmail.com</a> or <a style="color:#007aff" href="https://api.whatsapp.com/send?phone=358465935910">WhatsApp</a>
+I'm happy to meet over a (virtual, I guess 🤦‍♀️) coffee ☕ and pick your brain 🧠
 
 [integrify]: https://www.integrify.io/en/academy
 [fullstackopencourse]: https://courses.helsinki.fi/fi/aytkt21009/129171256
