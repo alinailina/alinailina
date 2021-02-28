@@ -4,7 +4,10 @@
 
 I am Alina, a front-end developer and UI designer, who strikes a balance between [<span style="color:#007aff">simple and considered</span>][website] outcomes.
 
-[![](https://img.shields.io/badge/-Linkedin-007aff)][linkedin] [![](https://img.shields.io/badge/-Instagram-007aff)][instagram] [![](https://img.shields.io/badge/-Twitter-007aff)][twitter]
+[![](https://img.shields.io/badge/-niftysyntax@gmail.com-f7f7f7?style=flat&logo=Gmail&logoColor=000)](mailto:niftysyntax@gmail.com)
+[![](https://img.shields.io/badge/-Linkedin-f7f7f7?&logo=Linkedin&logoColor=000)][linkedin]
+[![](https://img.shields.io/badge/-Instagram-f7f7f7?&logo=Instagram&logoColor=000)][instagram]
+[![](https://img.shields.io/badge/-Twitter-f7f7f7?&logo=Twitter&logoColor=000)][twitter]
 
 <br/>
 
@@ -12,11 +15,11 @@ I am Alina, a front-end developer and UI designer, who strikes a balance between
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
 
-![](<https://img.shields.io/badge/-JavaScript(ES6)-000>)
-![](https://img.shields.io/badge/-React-000)
-![](<https://img.shields.io/badge/-Node(Express)-000>)
-![](https://img.shields.io/badge/-MongoDB-000)
-![](https://img.shields.io/badge/-SASS-000)
+![](<https://img.shields.io/badge/-JavaScript(ES6)-f7f7f7?&logo=JavaScript&logoColor=000>)
+![](https://img.shields.io/badge/-React-f7f7f7?&logo=React&logoColor=000)
+![](<https://img.shields.io/badge/-Node(Express)-f7f7f7?&logo=Node.js&logoColor=000>)
+![](https://img.shields.io/badge/-MongoDB-f7f7f7?&logo=Mongodb&logoColor=000)
+![](https://img.shields.io/badge/-SASS-f7f7f7?&logo=Sass&logoColor=000)
 
 <br/>
 
@@ -24,8 +27,8 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 
 No need to reinvent the UI wheel - I look at what others are doing right, and combine those proven design patterns with 20% of my unique spin 💅
 
-![](https://img.shields.io/badge/-Figma-000)
-![](https://img.shields.io/badge/-AdobeXD-000)
+![](https://img.shields.io/badge/-Figma-f7f7f7?&logo=Figma&logoColor=000)
+![](https://img.shields.io/badge/-AdobeXD-f7f7f7?&logo=Adobe&logoColor=000)
 
 <br/>
 
@@ -35,7 +38,7 @@ No need to reinvent the UI wheel - I look at what others are doing right, and co
 
 - 🤝 Always looking to expand my professional network and make new friends
 
-- 🧘‍♀️ When I'm not coding, I like to look at talented UI design solutions and 🏃‍♀️🤸‍♀️ 🏋️‍♀️
+- 🧘‍♀️ When I'm not coding, I like to look at talented design work, listen to podcasts and 🏃‍♀️🤸‍♀️ 🏋️‍♀️
 
 - 👀 Read more [<span style="color:#007aff">here</span>][website]
 
