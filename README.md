@@ -4,7 +4,7 @@
 
 I am Alina, a front-end developer and UI designer, who strikes a balance between [<span style="color:#007aff">simple and considered</span>][website] outcomes.
 
-[![](https://img.shields.io/badge/-Linkedin-007aff)][linkedin] [![](https://img.shields.io/badge/-Instagram-007aff)][instagram]
+[![](https://img.shields.io/badge/-Linkedin-007aff)][linkedin] [![](https://img.shields.io/badge/-Instagram-007aff)][instagram] [![](https://img.shields.io/badge/-Twitter-007aff)][twitter]
 
 <br/>
 
@@ -50,3 +50,4 @@ I'm happy to meet over a (virtual, I guess 🤦‍♀️) coffee ☕ and pick yo
 [website]: https://alinailina.info
 [linkedin]: https://www.linkedin.com/in/alinailina/
 [instagram]: https://instagram.com/niftysyntax
+[twitter]: https://twitter.com/niftysyntax
