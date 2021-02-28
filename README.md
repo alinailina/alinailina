@@ -1,56 +1,50 @@
-## <samp>Alina Ilina</samp>
+# Clean code, fluff-free interfaces
 
-<a href="https://www.linkedin.com/in/alinailina/" target="_blank"><img align="left" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+## Hi, there! 👋 I am Alina, a front-end developer and UI designer, who strikes a balance between [<span style="color:#007aff">simple and considered</span>][website] outcomes.
 
-<a href="https://twitter.com/alinaimagineer" target="_blank"><img align="left" src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter"></a>
+[![](https://img.shields.io/badge/-Linkedin-007aff)][linkedin] [![](https://img.shields.io/badge/-Instagram-007aff)][instagram]
 
-<br><br>
+<br/>
 
-[Portfolio][website] <br/>
+## ⚡ I code
 
-[![](https://github-readme-stats.vercel.app/api?username=alinailina&hide_title=true&hide_border=true&show_icons&icon_color=A63446)](https://github.com/anuraghazra/github-readme-stats)
+Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
 
-[![](https://github-readme-stats.vercel.app/api/top-langs/?username=alinailina&hide_title=true)](https://github.com/anuraghazra/github-readme-stats)
+![](<https://img.shields.io/badge/-JavaScript(ES6)-000>)
+![](https://img.shields.io/badge/-React-000)
+![](<https://img.shields.io/badge/-Node(Express)-000>)
+![](https://img.shields.io/badge/-MongoDB-000)
+![](https://img.shields.io/badge/-SASS-000)
 
-**Technologies and Tools:**
+<br/>
 
-<img align="left" height="32" width="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
+## ✨ I design
 
-<img align="left" height="32" width="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
+No need to reinvent the UI wheel - I look at what others are doing right, and combine those proven design patterns with 20% of my unique spin 💅
 
-<img align="left" height="32" width="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sass/sass.png" />
+![](https://img.shields.io/badge/-Figma-000)
+![](https://img.shields.io/badge/-AdobeXD-000)
 
-<img align="left" height="32" width="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/bootstrap/bootstrap.png" />
+<br/>
 
-<img align="left" height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png">
+👩‍💻 Currently learning full-stack development at [<span style="color:#007aff">Integrify</span>][integrify] and [<span style="color:#007aff">Helsinki University</span>][fullstackopencourse]
 
-<img align="left" height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
+🌱 2021 goal: contribute to an open source project
 
-<img align="left" height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/wordpress/wordpress.png">
+🤝 Always looking to expand my professional network and make new friends
 
-<img align="left" height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png">
+🧘‍♀️ When I'm not coding, I like to look at talented UI design solutions and 🏃‍♀️🤸‍♀️ 🏋️‍♀️
 
-<img align="left" height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/express/express.png">
+👀 Read more [<span style="color:#007aff">here</span>][website]
 
-<img align="left" height="32" width="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />
+<br/>
 
-[about]: https://alinailina.info/about
+## But enough about me, let's talk about you
+
+I'm happy to meet over a (virtual, I guess 🤦‍♀️) coffee ☕ and pick your brain. Just ping me at <a style="color:#007aff" href="mailto:niftysyntax@gmail.com">niftysyntax@gmail.com</a> or <a style="color:#007aff" href="https://api.whatsapp.com/send?phone=358465935910">WhatsApp</a>
+
+[integrify]: https://www.integrify.io/en/academy
+[fullstackopencourse]: https://courses.helsinki.fi/fi/aytkt21009/129171256
 [website]: https://alinailina.info
 [linkedin]: https://www.linkedin.com/in/alinailina/
-[twitter]: https://twitter.com/alinaimagineer
-
-**Technologies and Tools:**
-
-<img align="left" src="https://img.shields.io/badge/html5%20-%23E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white" alt="html5">
-
-<img align="left" src="https://img.shields.io/badge/css3%20-%231572B6.svg?&style=for-the-badge&logo=css3&logoColor=white" alt="css3">
-
-<img align="left" src="https://img.shields.io/badge/javascript-%23F7DF1E.svg?&style=flat-square&logo=javascript&logoColor=black&labelColor=black" alt="javascript"></a>
-
-<img align="left" src="https://img.shields.io/badge/node.js%20-%2343853D.svg?&style=for-the-badge&logo=node.js&logoColor=white" alt="node.js">
-
-<img align="left" src="https://img.shields.io/badge/react%20-%2320232a.svg?&style=for-the-badge&logo=react&logoColor=%2361DAFB" alt="react">
-
-<img align="left" src="https://img.shields.io/badge/bootstrap%20-%23563D7C.svg?&style=for-the-badge&logo=bootstrap&logoColor=white" alt="react-native">
-
-<img align="left" src="https://img.shields.io/badge/material%20ui%20-%230081CB.svg?&style=for-the-badge&logo=material-ui&logoColor=white" alt="material-ui">
+[instagram]: https://instagram.com/niftysyntax
