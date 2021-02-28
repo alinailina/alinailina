@@ -1,6 +1,8 @@
 # Clean code, fluff-free interfaces
 
-## Hi, there! 👋 I am Alina, a front-end developer and UI designer, who strikes a balance between [<span style="color:#007aff">simple and considered</span>][website] outcomes.
+## Hi, there! 👋
+
+I am Alina, a front-end developer and UI designer, who strikes a balance between [<span style="color:#007aff">simple and considered</span>][website] outcomes.
 
 [![](https://img.shields.io/badge/-Linkedin-007aff)][linkedin] [![](https://img.shields.io/badge/-Instagram-007aff)][instagram]
 
