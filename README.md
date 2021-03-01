@@ -4,10 +4,10 @@
 
 I am Alina, a front-end developer and UI designer, who strikes a balance between [<span style="color:#007aff">simple and considered</span>][website] outcomes.
 
-[![](https://img.shields.io/badge/-niftysyntax@gmail.com-f7f7f7?style=flat&logo=Gmail&logoColor=000)](mailto:niftysyntax@gmail.com)
-[![](https://img.shields.io/badge/-Linkedin-f7f7f7?&logo=Linkedin&logoColor=000)][linkedin]
-[![](https://img.shields.io/badge/-Instagram-f7f7f7?&logo=Instagram&logoColor=000)][instagram]
-[![](https://img.shields.io/badge/-Twitter-f7f7f7?&logo=Twitter&logoColor=000)][twitter]
+[![](https://img.shields.io/badge/-niftysyntax@gmail.com-007aff?style=flat&logo=Gmail&logoColor=f7f7f7)](mailto:niftysyntax@gmail.com)
+[![](https://img.shields.io/badge/-Linkedin-007aff?&logo=Linkedin&logoColor=f7f7f7)][linkedin]
+[![](https://img.shields.io/badge/-Instagram-007aff?&logo=Instagram&logoColor=f7f7f7)][instagram]
+[![](https://img.shields.io/badge/-Twitter-007aff?&logo=Twitter&logoColor=f7f7f7)][twitter]
 
 ### ⚡ I code
 
