@@ -9,8 +9,6 @@ I am Alina, a front-end developer and UI designer, who strikes a balance between
 [![](https://img.shields.io/badge/-Instagram-f7f7f7?&logo=Instagram&logoColor=000)][instagram]
 [![](https://img.shields.io/badge/-Twitter-f7f7f7?&logo=Twitter&logoColor=000)][twitter]
 
-<br/>
-
 ### ⚡ I code
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
