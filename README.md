@@ -21,16 +21,12 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 ![](https://img.shields.io/badge/-MongoDB-f7f7f7?&logo=Mongodb&logoColor=000)
 ![](https://img.shields.io/badge/-SASS-f7f7f7?&logo=Sass&logoColor=000)
 
-<br/>
-
 ### ✨ I design
 
 No need to reinvent the UI wheel - I look at what others are doing right, and combine those proven design patterns with 20% of my unique spin 💅
 
 ![](https://img.shields.io/badge/-Figma-f7f7f7?&logo=Figma&logoColor=000)
 ![](https://img.shields.io/badge/-AdobeXD-f7f7f7?&logo=Adobe&logoColor=000)
-
-<br/>
 
 👩‍💻 Currently learning full-stack development at [<span style="color:#007aff">Integrify</span>][integrify] and [<span style="color:#007aff">Helsinki University</span>][fullstackopencourse]
 
@@ -41,8 +37,6 @@ No need to reinvent the UI wheel - I look at what others are doing right, and co
 🧘‍♀️ When I'm not coding, I like to look at talented design work, listen to podcasts and 🏃‍♀️🤸‍♀️ 🏋️‍♀️
 
 👀 Read more [<span style="color:#007aff">here</span>][website]
-
-<br/>
 
 ### But enough about me, let's talk about you...
 
